@@ -3,7 +3,6 @@ Docker sentry image inherits from slafs/sentry and adds some plugins:
 
 * sentry-irc
 * sentry-jira
-* sentry-pagerduty
 * sentry-slack
 * sentry-trello
 * sentry-webhooks
