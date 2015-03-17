@@ -3,3 +3,4 @@ sentry-jira
 sentry-slack
 sentry-trello
 sentry-webhooks
+requests
