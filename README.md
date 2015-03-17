@@ -13,7 +13,7 @@ Docker sentry image inherits from slafs/sentry and adds some plugins:
 to run a Sentry instance with default settings (with sqlite, locmem cache and no celery) run:
 
 ```
-docker run -d --name=sentry --volume=/tmp/sentry:/data -p 80:9000 -e SECRET_KEY=randomvalue -e SENTRY_URL_PREFIX=http://sentry.mydomain.com slafs/sentry
+docker run -d --name=sentry --volume=/tmp/sentry:/data -p 80:9000 -e SECRET_KEY=randomvalue -e SENTRY_URL_PREFIX=http://sentry.mydomain.com onjin/sentry-with-plugins
 ```
 
 You can visit now http://sentry.mydomain.com (assuming ``sentry.mydomain.com``
