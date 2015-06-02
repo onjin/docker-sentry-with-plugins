@@ -1,5 +1,5 @@
-[![Docker Stars](https://img.shields.io/docker/stars/onjin/sentry-with-plugins.svg)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/onjin/sentry-with-plugins.svg)]()
+[![Docker Stars](https://img.shields.io/docker/stars/onjin/sentry-with-plugins.svg)](https://registry.hub.docker.com/u/onjin/sentry-with-plugins/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/onjin/sentry-with-plugins.svg)](https://registry.hub.docker.com/u/onjin/sentry-with-plugins/)
 
 
 # sentry with some plugins
