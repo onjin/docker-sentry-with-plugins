@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/onjin/docker-with-plugins.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/onjin/docker-with-plugins.svg)]()
+
+
 # sentry with some plugins
 Docker sentry image inherits from slafs/sentry and adds some plugins:
 
