@@ -1,6 +1,2 @@
-requests[security]<2.6.0,>=2.5.1
-sentry-irc
-sentry-jira
-sentry-slack
-sentry-trello
-sentry-webhooks
+requests[security]
+sentry-plugins
