@@ -1,5 +1,6 @@
 [![Docker Stars](https://img.shields.io/docker/stars/onjin/sentry-with-plugins.svg)](https://registry.hub.docker.com/u/onjin/sentry-with-plugins/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/onjin/sentry-with-plugins.svg)](https://registry.hub.docker.com/u/onjin/sentry-with-plugins/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonjin%2Fdocker-sentry-with-plugins.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonjin%2Fdocker-sentry-with-plugins?ref=badge_shield)
 
 
 # sentry with some plugins
@@ -236,3 +237,7 @@ SENTRY_USE_X_FORWARDED_HOST     | USE_X_FORWARDED_HOST                          
 SENTRY_ALLOW_ORIGIN             | SENTRY_ALLOW_ORIGIN                           |      | None                                                  | allows JavaScript clients to submit cross-domain error reports. (e.g. ``"http://foo.example"``
 SENTRY_BEACON                   | SENTRY_BEACON                                 | bool | True                                                  | controls sending statistics to https://www.getsentry.com/remote/beacon/
 SENTRY_PUBLIC                   | SENTRY_PUBLIC                                 | bool | False                                                 | Should Sentry make all data publicly accessible? This should only be used if you’re installing Sentry behind your company’s firewall.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonjin%2Fdocker-sentry-with-plugins.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonjin%2Fdocker-sentry-with-plugins?ref=badge_large)
